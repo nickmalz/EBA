@@ -1,0 +1,43 @@
+2026-01-09 19:58:26,652 - INFO - RANSOMWARE DETECTED: Процесс 'vmms.exe' (PID: 2424) аномальная запись: 15.89 MB/s
+2026-01-09 19:58:26,748 - INFO - RANSOMWARE DETECTED: Процесс 'atieclxx.exe' (PID: 3312) аномальная запись: 5.90 MB/s
+2026-01-09 19:58:26,961 - INFO - RANSOMWARE DETECTED: Процесс 'Everything.exe' (PID: 4948) аномальная запись: 86821.03 MB/s
+2026-01-09 19:58:27,022 - INFO - RANSOMWARE DETECTED: Процесс 'PnkBstrA.exe' (PID: 4964) аномальная запись: 268.55 MB/s
+2026-01-09 19:58:27,056 - INFO - RANSOMWARE DETECTED: Процесс 'MsMpEng.exe' (PID: 5016) аномальная запись: 542228.72 MB/s
+2026-01-09 19:58:27,090 - INFO - RANSOMWARE DETECTED: Процесс 'MpDefenderCoreService.exe' (PID: 5052) аномальная запись: 49.53 MB/s
+2026-01-09 19:58:27,142 - INFO - RANSOMWARE DETECTED: Процесс 'wslservice.exe' (PID: 5128) аномальная запись: 5.22 MB/s
+2026-01-09 19:58:27,162 - INFO - RANSOMWARE DETECTED: Процесс 'lghub_updater.exe' (PID: 5248) аномальная запись: 665.84 MB/s
+2026-01-09 19:58:27,177 - INFO - RANSOMWARE DETECTED: Процесс 'OfficeClickToRun.exe' (PID: 5256) аномальная запись: 147.33 MB/s
+2026-01-09 19:58:27,193 - INFO - RANSOMWARE DETECTED: Процесс 'AdskLicensingService.exe' (PID: 5288) аномальная запись: 3471.84 MB/s
+2026-01-09 19:58:27,209 - INFO - RANSOMWARE DETECTED: Процесс 'AGSService.exe' (PID: 5340) аномальная запись: 87.73 MB/s
+2026-01-09 19:58:27,227 - INFO - RANSOMWARE DETECTED: Процесс 'AGMService.exe' (PID: 5348) аномальная запись: 10.51 MB/s
+2026-01-09 19:58:27,291 - INFO - RANSOMWARE DETECTED: Процесс 'browser.exe' (PID: 5872) аномальная запись: 8345145.96 MB/s
+2026-01-09 19:58:27,325 - INFO - RANSOMWARE DETECTED: Процесс 'gamingservices.exe' (PID: 6940) аномальная запись: 4833.78 MB/s
+2026-01-09 19:58:27,383 - INFO - RANSOMWARE DETECTED: Процесс 'dllhost.exe' (PID: 8164) аномальная запись: 2178.28 MB/s
+2026-01-09 19:58:27,396 - INFO - RANSOMWARE DETECTED: Процесс 'SearchIndexer.exe' (PID: 8312) аномальная запись: 69870.47 MB/s
+2026-01-09 19:58:27,526 - INFO - RANSOMWARE DETECTED: Процесс 'steamservice.exe' (PID: 24876) аномальная запись: 9.69 MB/s
+2026-01-09 19:58:27,598 - INFO - RANSOMWARE DETECTED: Процесс 'WmiPrvSE.exe' (PID: 39124) аномальная запись: 50.60 MB/s
+2026-01-09 19:58:27,625 - INFO - RANSOMWARE DETECTED: Процесс 'adskflex.exe' (PID: 44924) аномальная запись: 6.39 MB/s
+2026-01-09 19:58:41,151 - INFO - RANSOMWARE DETECTED: Процесс 'CryptoLocker.exe' (PID: 39620) аномальная запись: 18022.36 MB/s
+2026-01-09 19:58:43,910 - INFO - RANSOMWARE DETECTED: Процесс 'CryptoLocker.exe' (PID: 44876) аномальная запись: 10.90 MB/s
+2026-01-09 19:58:43,910 - INFO - Подозрение на RANSOMWARE: CryptoLocker.exe (PID: 44876) пишет на диск со скоростью 15.00 МБ/с
+2026-01-09 19:58:46,804 - INFO - RANSOMWARE DETECTED: Процесс 'CryptoLocker.exe' (PID: 44876) аномальная запись: 13.82 MB/s
+2026-01-09 19:58:46,805 - INFO - Подозрение на RANSOMWARE: CryptoLocker.exe (PID: 44876) пишет на диск со скоростью 20.00 МБ/с
+2026-01-09 19:58:49,534 - INFO - RANSOMWARE DETECTED: Процесс 'CryptoLocker.exe' (PID: 44876) аномальная запись: 14.65 MB/s
+2026-01-09 19:58:49,534 - INFO - Подозрение на RANSOMWARE: CryptoLocker.exe (PID: 44876) пишет на диск со скоростью 20.00 МБ/с
+2026-01-09 19:58:52,300 - INFO - RANSOMWARE DETECTED: Процесс 'CryptoLocker.exe' (PID: 44876) аномальная запись: 10.84 MB/s
+2026-01-09 19:58:52,301 - INFO - Подозрение на RANSOMWARE: CryptoLocker.exe (PID: 44876) пишет на диск со скоростью 15.00 МБ/с
+2026-01-09 19:58:55,049 - INFO - RANSOMWARE DETECTED: Процесс 'CryptoLocker.exe' (PID: 44876) аномальная запись: 14.55 MB/s
+2026-01-09 19:58:55,049 - INFO - Подозрение на МАЙНЕР: CryptoLocker.exe (PID: 44876) грузит ЦП на 90.3% уже долгое время!
+2026-01-09 19:58:55,049 - INFO - Подозрение на RANSOMWARE: CryptoLocker.exe (PID: 44876) пишет на диск со скоростью 20.00 МБ/с
+2026-01-09 19:58:57,676 - INFO - RANSOMWARE DETECTED: Процесс 'CryptoLocker.exe' (PID: 44876) аномальная запись: 15.23 MB/s
+2026-01-09 19:58:57,677 - INFO - Подозрение на МАЙНЕР: CryptoLocker.exe (PID: 44876) грузит ЦП на 91.1% уже долгое время!
+2026-01-09 19:58:57,677 - INFO - Подозрение на RANSOMWARE: CryptoLocker.exe (PID: 44876) пишет на диск со скоростью 20.00 МБ/с
+2026-01-09 19:59:00,646 - INFO - RANSOMWARE DETECTED: Процесс 'CryptoLocker.exe' (PID: 44876) аномальная запись: 10.10 MB/s
+2026-01-09 19:59:00,646 - INFO - Подозрение на МАЙНЕР: CryptoLocker.exe (PID: 44876) грузит ЦП на 91.0% уже долгое время!
+2026-01-09 19:59:00,646 - INFO - Подозрение на RANSOMWARE: CryptoLocker.exe (PID: 44876) пишет на диск со скоростью 15.00 МБ/с
+2026-01-09 19:59:35,312 - INFO - Подозрение на МАЙНЕР: SystemUpdater.exe (PID: 11916) грузит ЦП на 92.2% уже долгое время!
+2026-01-09 19:59:37,954 - INFO - Подозрение на МАЙНЕР: SystemUpdater.exe (PID: 11916) грузит ЦП на 91.1% уже долгое время!
+2026-01-09 19:59:40,554 - INFO - Подозрение на МАЙНЕР: SystemUpdater.exe (PID: 11916) грузит ЦП на 91.6% уже долгое время!
+2026-01-09 19:59:43,243 - INFO - Подозрение на МАЙНЕР: SystemUpdater.exe (PID: 11916) грузит ЦП на 92.5% уже долгое время!
+2026-01-09 19:59:45,855 - INFO - Подозрение на МАЙНЕР: SystemUpdater.exe (PID: 11916) грузит ЦП на 94.0% уже долгое время!
+2026-01-09 19:59:48,449 - INFO - Подозрение на МАЙНЕР: SystemUpdater.exe (PID: 11916) грузит ЦП на 92.2% уже долгое время!
